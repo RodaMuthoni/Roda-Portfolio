@@ -1,7 +1,7 @@
 # Roda-Portfolio
 My professional portfolio: resume, projects, and journey in building expertise in AI-Driven Financial Innovation
 
-# Roda Muthoni – Future-Focused Finance Professional | AI-Curious | Problem Solver
+#Future-Focused Finance Professional | AI-Curious | Problem Solver
 
 Hi there 👋🏾 I'm Roda, a Finance & Strategy professional based in Kenya with a deep desire to reimagine traditional finance through technology, especially Artificial Intelligence. I’m currently pursuing an MBA in Strategic Management and upskilling in data analysis, automation, and AI for finance.
 
